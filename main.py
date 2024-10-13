@@ -1,7 +1,7 @@
 # main.py
-import streamlit as st
 import pandas as pd
 import plotly.express as px
+import streamlit as st
 
 # 设置页面配置
 st.set_page_config(page_title="数据分析Web应用", layout="wide")
