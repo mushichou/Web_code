@@ -13,9 +13,7 @@ pip3 install -r requirements.txt
 在windows命令终端运行程序，一定要在main.py所在的文件目录下运行
 
 ```python
-streamlit
-run
-main.py
+streamlit run main.py
 ```
 
 # 第三步
